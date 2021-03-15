@@ -1,0 +1,14 @@
+//
+//  Generated file. Do not edit.
+//
+
+#import "GeneratedPluginRegistrant.h"
+#import <flutter_bluetooth_plugin/FlutterBluetoothPlugin.h>
+
+@implementation GeneratedPluginRegistrant
+
++ (void)registerWithRegistry:(NSObject<FlutterPluginRegistry>*)registry {
+  [FlutterBluetoothPlugin registerWithRegistrar:[registry registrarForPlugin:@"FlutterBluetoothPlugin"]];
+}
+
+@end

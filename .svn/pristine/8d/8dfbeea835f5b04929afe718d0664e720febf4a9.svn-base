@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\MobileApp\\flutter_app\\flutter_bluetooth_plugin\\example\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-fr\\values-fr.xml",
+            "map": [
+                {
+                    "source": "D:\\Android\\Android Studio\\gradle\\m2repository\\com\\android\\tools\\build\\gradle\\2.2.0\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\a008ee105f9bad64e194af44581d2212\\res\\values-fr\\values-fr.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        }
+    ]
+}

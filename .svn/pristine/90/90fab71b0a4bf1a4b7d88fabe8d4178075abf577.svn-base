@@ -1,0 +1,79 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\MobileApp\flutter_app\flutter_bluetooth_plugin\android\src\main\AndroidManifest.xml:1:1-19:12
+INJECTED from D:\MobileApp\flutter_app\flutter_bluetooth_plugin\android\src\main\AndroidManifest.xml:1:1-19:12
+INJECTED from D:\MobileApp\flutter_app\flutter_bluetooth_plugin\android\src\main\AndroidManifest.xml:1:1-19:12
+	package
+		ADDED from D:\MobileApp\flutter_app\flutter_bluetooth_plugin\android\src\main\AndroidManifest.xml:2:3-46
+		INJECTED from D:\MobileApp\flutter_app\flutter_bluetooth_plugin\android\src\main\AndroidManifest.xml
+		INJECTED from D:\MobileApp\flutter_app\flutter_bluetooth_plugin\android\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\MobileApp\flutter_app\flutter_bluetooth_plugin\android\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.BLUETOOTH
+ADDED from D:\MobileApp\flutter_app\flutter_bluetooth_plugin\android\src\main\AndroidManifest.xml:3:5-68
+	android:name
+		ADDED from D:\MobileApp\flutter_app\flutter_bluetooth_plugin\android\src\main\AndroidManifest.xml:3:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from D:\MobileApp\flutter_app\flutter_bluetooth_plugin\android\src\main\AndroidManifest.xml:4:5-74
+	android:name
+		ADDED from D:\MobileApp\flutter_app\flutter_bluetooth_plugin\android\src\main\AndroidManifest.xml:4:22-71
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from D:\MobileApp\flutter_app\flutter_bluetooth_plugin\android\src\main\AndroidManifest.xml:5:5-80
+	android:name
+		ADDED from D:\MobileApp\flutter_app\flutter_bluetooth_plugin\android\src\main\AndroidManifest.xml:5:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from D:\MobileApp\flutter_app\flutter_bluetooth_plugin\android\src\main\AndroidManifest.xml:6:5-78
+	android:name
+		ADDED from D:\MobileApp\flutter_app\flutter_bluetooth_plugin\android\src\main\AndroidManifest.xml:6:22-76
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\MobileApp\flutter_app\flutter_bluetooth_plugin\android\src\main\AndroidManifest.xml:7:5-80
+	android:name
+		ADDED from D:\MobileApp\flutter_app\flutter_bluetooth_plugin\android\src\main\AndroidManifest.xml:7:22-78
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from D:\MobileApp\flutter_app\flutter_bluetooth_plugin\android\src\main\AndroidManifest.xml:9:5-74
+	android:name
+		ADDED from D:\MobileApp\flutter_app\flutter_bluetooth_plugin\android\src\main\AndroidManifest.xml:9:22-72
+uses-permission#android.permission.READ_CALL_LOG
+ADDED from D:\MobileApp\flutter_app\flutter_bluetooth_plugin\android\src\main\AndroidManifest.xml:10:5-71
+	android:name
+		ADDED from D:\MobileApp\flutter_app\flutter_bluetooth_plugin\android\src\main\AndroidManifest.xml:10:22-69
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from D:\MobileApp\flutter_app\flutter_bluetooth_plugin\android\src\main\AndroidManifest.xml:11:5-70
+	android:name
+		ADDED from D:\MobileApp\flutter_app\flutter_bluetooth_plugin\android\src\main\AndroidManifest.xml:11:22-68
+uses-permission#android.permission.CAMERA
+ADDED from D:\MobileApp\flutter_app\flutter_bluetooth_plugin\android\src\main\AndroidManifest.xml:12:5-64
+	android:name
+		ADDED from D:\MobileApp\flutter_app\flutter_bluetooth_plugin\android\src\main\AndroidManifest.xml:12:22-62
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from D:\MobileApp\flutter_app\flutter_bluetooth_plugin\android\src\main\AndroidManifest.xml:13:5-70
+	android:name
+		ADDED from D:\MobileApp\flutter_app\flutter_bluetooth_plugin\android\src\main\AndroidManifest.xml:13:22-68
+uses-permission#android.permission.READ_CONTACTS
+ADDED from D:\MobileApp\flutter_app\flutter_bluetooth_plugin\android\src\main\AndroidManifest.xml:14:5-71
+	android:name
+		ADDED from D:\MobileApp\flutter_app\flutter_bluetooth_plugin\android\src\main\AndroidManifest.xml:14:22-69
+uses-permission#android.permission.READ_CALENDAR
+ADDED from D:\MobileApp\flutter_app\flutter_bluetooth_plugin\android\src\main\AndroidManifest.xml:15:5-71
+	android:name
+		ADDED from D:\MobileApp\flutter_app\flutter_bluetooth_plugin\android\src\main\AndroidManifest.xml:15:22-69
+uses-permission#android.permission.SEND_SMS
+ADDED from D:\MobileApp\flutter_app\flutter_bluetooth_plugin\android\src\main\AndroidManifest.xml:16:5-66
+	android:name
+		ADDED from D:\MobileApp\flutter_app\flutter_bluetooth_plugin\android\src\main\AndroidManifest.xml:16:22-64
+uses-permission#android.permission.READ_SMS
+ADDED from D:\MobileApp\flutter_app\flutter_bluetooth_plugin\android\src\main\AndroidManifest.xml:17:5-66
+	android:name
+		ADDED from D:\MobileApp\flutter_app\flutter_bluetooth_plugin\android\src\main\AndroidManifest.xml:17:22-64
+uses-permission#android.permission.CALL_PHONE
+ADDED from D:\MobileApp\flutter_app\flutter_bluetooth_plugin\android\src\main\AndroidManifest.xml:18:5-68
+	android:name
+		ADDED from D:\MobileApp\flutter_app\flutter_bluetooth_plugin\android\src\main\AndroidManifest.xml:18:22-66
+uses-sdk
+INJECTED from D:\MobileApp\flutter_app\flutter_bluetooth_plugin\android\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\MobileApp\flutter_app\flutter_bluetooth_plugin\android\src\main\AndroidManifest.xml
+INJECTED from D:\MobileApp\flutter_app\flutter_bluetooth_plugin\android\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\MobileApp\flutter_app\flutter_bluetooth_plugin\android\src\main\AndroidManifest.xml
+		ADDED from D:\MobileApp\flutter_app\flutter_bluetooth_plugin\android\src\main\AndroidManifest.xml
+		INJECTED from D:\MobileApp\flutter_app\flutter_bluetooth_plugin\android\src\main\AndroidManifest.xml
